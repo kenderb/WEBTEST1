@@ -4,3 +4,9 @@
 .tab {
  margin-left: 2.5em
 }
+
+nav
+{
+   position: fixed;
+   top: 0px;
+}
